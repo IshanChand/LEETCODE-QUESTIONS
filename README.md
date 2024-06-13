@@ -17,8 +17,13 @@ Collection of LeetCode questions to ace the coding interview!
 # Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/IshanChand/LEETCODE-QUESTIONS/tree/master/0061-rotate-list) |
 | [0206-reverse-linked-list](https://github.com/IshanChand/LEETCODE-QUESTIONS/tree/master/0206-reverse-linked-list) |
 # Recursion
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/IshanChand/LEETCODE-QUESTIONS/tree/master/0206-reverse-linked-list) |
+# Two Pointers
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/IshanChand/LEETCODE-QUESTIONS/tree/master/0061-rotate-list) |
