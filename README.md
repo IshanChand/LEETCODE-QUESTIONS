@@ -14,3 +14,11 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/IshanChand/LEETCODE-QUESTIONS/tree/master/0070-climbing-stairs) |
+# Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/IshanChand/LEETCODE-QUESTIONS/tree/master/0206-reverse-linked-list) |
+# Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/IshanChand/LEETCODE-QUESTIONS/tree/master/0206-reverse-linked-list) |
