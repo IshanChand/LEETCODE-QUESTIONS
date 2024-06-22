@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/IshanChand/LEETCODE-QUESTIONS/tree/master/0070-climbing-stairs) |
+| [0435-non-overlapping-intervals](https://github.com/IshanChand/LEETCODE-QUESTIONS/tree/master/0435-non-overlapping-intervals) |
 # Memoization
 |  |
 | ------- |
@@ -27,3 +28,15 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/IshanChand/LEETCODE-QUESTIONS/tree/master/0061-rotate-list) |
+# Array
+|  |
+| ------- |
+| [0435-non-overlapping-intervals](https://github.com/IshanChand/LEETCODE-QUESTIONS/tree/master/0435-non-overlapping-intervals) |
+# Greedy
+|  |
+| ------- |
+| [0435-non-overlapping-intervals](https://github.com/IshanChand/LEETCODE-QUESTIONS/tree/master/0435-non-overlapping-intervals) |
+# Sorting
+|  |
+| ------- |
+| [0435-non-overlapping-intervals](https://github.com/IshanChand/LEETCODE-QUESTIONS/tree/master/0435-non-overlapping-intervals) |
