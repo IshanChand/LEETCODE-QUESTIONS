@@ -40,3 +40,14 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/IshanChand/LEETCODE-QUESTIONS/tree/master/0435-non-overlapping-intervals) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Two Pointers
+|  |
+| ------- |
+| [1894-merge-strings-alternately](https://github.com/IshanChand/LEETCODE-QUESTIONS/tree/master/1894-merge-strings-alternately) |
+## String
+|  |
+| ------- |
+| [1894-merge-strings-alternately](https://github.com/IshanChand/LEETCODE-QUESTIONS/tree/master/1894-merge-strings-alternately) |
+<!---LeetCode Topics End-->
