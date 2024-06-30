@@ -58,4 +58,16 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/IshanChand/LEETCODE-QUESTIONS/tree/master/0605-can-place-flowers) |
+## Math
+|  |
+| ------- |
+| [1236-n-th-tribonacci-number](https://github.com/IshanChand/LEETCODE-QUESTIONS/tree/master/1236-n-th-tribonacci-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1236-n-th-tribonacci-number](https://github.com/IshanChand/LEETCODE-QUESTIONS/tree/master/1236-n-th-tribonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1236-n-th-tribonacci-number](https://github.com/IshanChand/LEETCODE-QUESTIONS/tree/master/1236-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
