@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/IshanChand/LEETCODE-QUESTIONS/tree/master/0605-can-place-flowers) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/IshanChand/LEETCODE-QUESTIONS/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 ## Greedy
 |  |
 | ------- |
@@ -70,4 +71,12 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1236-n-th-tribonacci-number](https://github.com/IshanChand/LEETCODE-QUESTIONS/tree/master/1236-n-th-tribonacci-number) |
+## Hash Table
+|  |
+| ------- |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/IshanChand/LEETCODE-QUESTIONS/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+## Counting
+|  |
+| ------- |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/IshanChand/LEETCODE-QUESTIONS/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 <!---LeetCode Topics End-->
